@@ -1,0 +1,8 @@
+<suite name="Smoke_Test" parallel="classes" thread-count="5">
+    <test verbose="2" name="UI" >
+        <classes>
+            <class name="UI_test"/>
+            <class name="UI_test_5"/>
+        </classes>
+    </test>
+</suite> <!-- Default suite -->

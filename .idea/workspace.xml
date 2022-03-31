@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e465215b-e175-41af-970b-09a98db58bd8" name="Changes" comment="API">
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/15e7de4b83dcbf7a_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/16b1f8d83ea7cf1c_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/3b84157e0d9bfd0e_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/3ce55625d7d258d1_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/59a778bccd4b0963_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/63b1110247d70fc7_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/cd76220243dd68af_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Cache/fc8e8a2a1ffae384_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/9e84abd223b5fba0_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/JetBrains/IdeaIC2021.3/external_build_system/quantic_sample.40050e06/modules/Quantic_sample.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/JetBrains/IdeaIC2021.3/external_build_system/quantic_sample.40050e06/project/compiler.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/JetBrains/IdeaIC2021.3/external_build_system/quantic_sample.40050e06/project/libraries.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.cache/JetBrains/IdeaIC2021.3/external_build_system/quantic_sample.40050e06/project/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.config/google-chrome/chrome_shutdown_ms.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/GemEcoTestReport 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/GemEcoTestAPIReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/GemEcoTestUIReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS/SS1648703421817.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanticProp/GemEcoTestReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI_test_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../report/JavaGemReporting/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../report/JavaGemReporting/src/main/java/com/qa/gemini/quartzReporting/GemTestReporter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Pictures/SS1648532484235.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Pictures/SS1648532983111.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Pictures/SS1648533957857.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25SAoGgyMpDkJGQROnJ4WYEc6DZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Report" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Report" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/akash/IdeaProjects/Quantic_sample/API_test.xml">
+    <configuration name="Get_User_API_Test.validateValidUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Quantic_sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Get_User_API_Test" />
+      <option name="METHOD_NAME" value="validateValidUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_test_3.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Quantic_sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_test_3" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_test_5.Linkedin_Testcase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Quantic_sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_test_5" />
+      <option name="METHOD_NAME" value="Linkedin_Testcase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/akash/IdeaProjects/Quantic_sample/API_test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Quantic_sample" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/API_test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/akash/IdeaProjects/Quantic_sample/UI_test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Quantic_sample" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/UI_test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/akash/IdeaProjects/Quantic_sample/API_test.xml" />
+        <item itemvalue="TestNG.UI_test_3.Test1" />
+        <item itemvalue="TestNG.UI_test_5.Linkedin_Testcase" />
+        <item itemvalue="TestNG.Get_User_API_Test.validateValidUser" />
+        <item itemvalue="TestNG./home/akash/IdeaProjects/Quantic_sample/UI_test.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e465215b-e175-41af-970b-09a98db58bd8" name="Changes" comment="" />
+      <created>1645510290377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645510290377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemini/automation/Quantic/1.0-SNAPSHOT/Quantic-1.0-SNAPSHOT.jar!/com/gemini/automation/ApiTest/ApiClientConnect.class</url>
+          <line>88</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemini/automation/Quantic/1.0-SNAPSHOT/Quantic-1.0-SNAPSHOT.jar!/com/gemini/automation/ApiTest/ApiClientConnect.class</url>
+          <line>89</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemini/automation/Quantic/1.0-SNAPSHOT/Quantic-1.0-SNAPSHOT.jar!/com/gemini/automation/ApiTest/ApiClientConnect.class</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemini/automation/Quantic/1.0-SNAPSHOT/Quantic-1.0-SNAPSHOT.jar!/com/gemini/automation/ApiTest/ApiClientConnect.class</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

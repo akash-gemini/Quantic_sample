@@ -1,0 +1,92 @@
+{
+  "createUser":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "createConflictUser":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "createUserWithMissingProperty":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "validateValidUser":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "validateInvalidUser":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "Linkedin_Testcase":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "Amazon_Testcase":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "Events_Testcase":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "demo_testcase":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  },
+  "Test1":
+  {
+    "runFlag": "Y",
+    "category": "test",
+    "scenarioID" : "V2S001",
+    "inputData" : {
+      "id": 1234
+    }
+  }
+}
